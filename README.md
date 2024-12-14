@@ -1,0 +1,1 @@
+AtCoderをやった記録をcommitする。Rubyが好きなのでRubyで書いてます。
